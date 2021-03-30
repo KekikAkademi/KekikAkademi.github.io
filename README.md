@@ -37,6 +37,50 @@ eczane = NobetciEczane('Çanakkale', 'Merkez')
 
 * * *
 
+**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="48" align="center"> KekikTaban](./doc/KekikTaban)**
+
+```bash
+# Yüklemek
+pip install KekikTaban
+
+# Güncellemek
+pip install -U KekikTaban
+```
+
+```python
+from KekikTaban import KekikTaban
+
+taban = KekikTaban(
+    baslik   = "@KekikAkademi Userbot",
+    aciklama = "kekikUserbot Başlatıldı..",
+    banner   = "kekikUserbot",
+    girinti  = 1
+)
+
+taban.log_salla('a', 'b', 'c')
+taban.log_salla('sol', 'orta', 'sag')
+taban.log_salla('@keyiflerolsun', '.nekover py', 'Kekik | Kahve')
+
+
+test = "abcdefghijklmnopqrstuvwxyz"
+
+konsol = taban.konsol
+konsol.print(f"{len(test)}", justify="center", style="blink bold red underline on white")
+
+from rich.style import Style
+tehlike = Style(color="red", blink=True, bold=True)
+konsol.print(f"{len(test)}", justify="center", style=tehlike)
+
+taban.log_salla(test, test, test)
+
+try:
+    bakalim()
+except Exception as hata:
+    taban.hata_salla(hata)
+```
+
+* * *
+
 **[🔍 BTKSorgu](./doc/BTKSorgu)**
 
 ```bash
