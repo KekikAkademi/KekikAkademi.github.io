@@ -37,7 +37,7 @@ eczane = NobetciEczane('Çanakkale', 'Merkez')
 
 * * *
 
-**[🔍 BTKSorgu](https://keyiflerolsun.github.io/BTKSorgu/)**
+**[🔍 BTKSorgu](./doc/BTKSorgu)**
 
 ```bash
 # Yüklemek
