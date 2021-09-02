@@ -2,150 +2,68 @@
 
 * * *
 
-**[✂️ KekikSpatula](https://keyiflerolsun.github.io/KekikSpatula/)**
+**[⚕ pyHES](https://github.com/keyiflerolsun/pyHES)**
 
-```bash
-pip install -U KekikSpatula
-```
-
-```python
-from KekikSpatula import NobetciEczane
-
-eczane = NobetciEczane('Çanakkale', 'Merkez')
-```
+> *Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
 
 * * *
 
-**[🚀 KolektifAPI](https://kolektifapi.herokuapp.com/)**
+**![pyTrendyol](https://www.trendyol.com/frontend/web/assets/images/favicon.ico) [pyTrendyol](https://github.com/keyiflerolsun/pyTrendyol)**
+
+> *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
 
 * * *
 
-**[🗺️ Risk Yasak Haritasi](https://keyiflerolsun.github.io/Risk-Yasak_Haritasi/)**
+**[✂️ KekikSpatula](https://github.com/keyiflerolsun/KekikSpatula)**
 
-**Flask - jS iş birliği ile Risk Yasak Haritası 🗺**
-
-*Risk grubu verileri anlık olarak sağlık bakanlığından alınmaktadır..*
+> *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
 
 * * *
 
-**[🎧 SpotiTelegram](https://keyiflerolsun.github.io/SpotiTelegram/)**
+**[🚀 KolektifAPI](https://github.com/keyiflerolsun/KolektifAPI)**
 
-**Telegram Biyografinizde `Ne Dinliyorum?` Özelliği 🎧**
+> *Flask Tabanlı KekikSpatula API*
 
-*Eskiden MSN'de olduğu gibi anlık olarak dinlediğiniz şarkıyı gösteren bir proje..*
+* * *
+
+**[🗺️ Risk Yasak Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
+
+> **Flask - jS iş birliği ile Risk Yasak Haritası 🗺**
+>
+> *Risk grubu verileri anlık olarak sağlık bakanlığından alınmaktadır..*
+
+* * *
+
+**[🎧 SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram)**
+
+> **Telegram Biyografinizde `Ne Dinliyorum?` Özelliği 🎧**
+>
+> *Eskiden MSN'de olduğu gibi anlık olarak dinlediğiniz şarkıyı gösteren bir proje..*
 *Spotify'dan anlık olarak dinlediğiniz müziği çeker ve Telegram biyografinize ekler.*
 
 * * *
 
-**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="48" align="center"> KekikTaban](./doc/KekikTaban)**
+**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="48" align="center"> KekikTaban](https://github.com/keyiflerolsun/KekikTaban)**
 
-```bash
-# Yüklemek
-pip install KekikTaban
-
-# Güncellemek
-pip install -U KekikTaban
-```
-
-```python
-from KekikTaban import KekikTaban
-
-taban = KekikTaban(
-    baslik   = "@KekikAkademi Userbot",
-    aciklama = "kekikUserbot Başlatıldı..",
-    banner   = "kekikUserbot",
-    girinti  = 1
-)
-
-taban.log_salla('a', 'b', 'c')
-taban.log_salla('sol', 'orta', 'sag')
-taban.log_salla('@keyiflerolsun', '.nekover py', 'Kekik | Kahve')
-
-
-test = "abcdefghijklmnopqrstuvwxyz"
-
-konsol = taban.konsol
-konsol.print(f"{len(test)}", justify="center", style="blink bold red underline on white")
-
-from rich.style import Style
-tehlike = Style(color="red", blink=True, bold=True)
-konsol.print(f"{len(test)}", justify="center", style=tehlike)
-
-taban.log_salla(test, test, test)
-
-try:
-    bakalim()
-except Exception as hata:
-    taban.hata_salla(hata)
-```
+> *@KekikAkademi adına yazılmış Projelerin Terminal Tabanı ve Biraz Dahası*
 
 * * *
 
-**[🔍 BTKSorgu](./doc/BTKSorgu)**
+**[🔍 BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
 
-```bash
-# Yüklemek
-pip install BTKSorgu
-
-# Güncellemek
-pip install -U BTKSorgu
-```
-
-```python
-from BTKSorgu import BTKSorgu
-from time     import time
-
-basla = time()
-print(BTKSorgu('redtube.com'))
-    # » redtube.com, 30/01/2008 tarihli ve 410.01.02.2008-028105 sayılı Telekomünikasyon İletişim Başkanlığı kararıyla erişime engellenmiştir.
-print(BTKSorgu('kekikakademi.org'))
-    # » Bilgi Teknolojileri ve İletişim Kurumu tarafından uygulanan bir karar bulunamadı.
-print(BTKSorgu('xnxx.com'))
-    # » xnxx.com, 23/02/2008 tarihli ve 410.01.02.2008-054003 sayılı Telekomünikasyon İletişim Başkanlığı kararıyla erişime engellenmiştir.
-bitir = time()
-
-print(bitir-basla)
-    # » 8.352766513824463
-```
+> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
 
 * * *
 
-**[🏙️ TRSehirler](https://keyiflerolsun.github.io/TRSehirler/)**
+**[📖 InstaRehber](https://github.com/keyiflerolsun/InstaRehber)**
 
-```bash
-pip install -U TRSehirler
-```
+> *Instagram'ın Yedeklediği Rehberin Çeşitli Formatlarda Geri Dönüşümü*
 
-```python
-from TRSehirler import Sehir
+* * *
 
-sehir = Sehir()
+**[🏙️ TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
 
-print(sehir.il('Çanakkale'))
-'''
-{
-  "plaka": 17,
-  "il": "Çanakkale",
-  "telefon": 286,
-  "buyuksehir_den_beri": null,
-  "bolge": "Marmara",
-  "ilceler": [
-    "Ayvacık",
-    "Bayramiç",
-    "Biga",
-    "Bozcaada",
-    "Çan",
-    "Eceabat",
-    "Ezine",
-    "Gelibolu",
-    "Gökçeada",
-    "Lapseki",
-    "Merkez",
-    "Yenice"
-  ]
-}
-'''
-```
+> *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
 
 * * *
 
