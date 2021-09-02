@@ -1,32 +1,36 @@
+# **[☕️ buymeacoffee](https://keyiflerolsun.me/Kahve.md)**
+
+* * *
+
 **© tüm hakları açık keyfinizce takılın**
 
 * * *
 
-**[⚕ pyHES](https://github.com/keyiflerolsun/pyHES)**
+**[⚕ pyHES](https://keyiflerolsun.me/pyHES)**
 
 > *Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
 
 * * *
 
-**![pyTrendyol](https://www.trendyol.com/frontend/web/assets/images/favicon.ico) [pyTrendyol](https://github.com/keyiflerolsun/pyTrendyol)**
+**![pyTrendyol](https://www.trendyol.com/frontend/web/assets/images/favicon.ico) [pyTrendyol](https://keyiflerolsun.me/pyTrendyol)**
 
 > *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
 
 * * *
 
-**[✂️ KekikSpatula](https://github.com/keyiflerolsun/KekikSpatula)**
+**[✂️ KekikSpatula](https://keyiflerolsun.me/KekikSpatula)**
 
 > *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
 
 * * *
 
-**[🚀 KolektifAPI](https://github.com/keyiflerolsun/KolektifAPI)**
+**[🚀 KolektifAPI](https://keyiflerolsun.me/KolektifAPI)**
 
 > *Flask Tabanlı KekikSpatula API*
 
 * * *
 
-**[🗺️ Risk Yasak Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
+**[🗺️ Risk Yasak Haritasi](https://keyiflerolsun.me/Risk-Yasak_Haritasi)**
 
 > **Flask - jS iş birliği ile Risk Yasak Haritası 🗺**
 >
@@ -34,7 +38,7 @@
 
 * * *
 
-**[🎧 SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram)**
+**[🎧 SpotiTelegram](https://keyiflerolsun.me/SpotiTelegram)**
 
 > **Telegram Biyografinizde `Ne Dinliyorum?` Özelliği 🎧**
 >
@@ -43,31 +47,27 @@
 
 * * *
 
-**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="48" align="center"> KekikTaban](https://github.com/keyiflerolsun/KekikTaban)**
+**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="48" align="center"> KekikTaban](https://keyiflerolsun.me/KekikTaban)**
 
 > *@KekikAkademi adına yazılmış Projelerin Terminal Tabanı ve Biraz Dahası*
 
 * * *
 
-**[🔍 BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
+**[🔍 BTKSorgu](https://keyiflerolsun.me/BTKSorgu)**
 
 > *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
 
 * * *
 
-**[📖 InstaRehber](https://github.com/keyiflerolsun/InstaRehber)**
+**[📖 InstaRehber](https://keyiflerolsun.me/InstaRehber)**
 
 > *Instagram'ın Yedeklediği Rehberin Çeşitli Formatlarda Geri Dönüşümü*
 
 * * *
 
-**[🏙️ TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
+**[🏙️ TRSehirler](https://keyiflerolsun.me/TRSehirler)**
 
 > *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
-
-* * *
-
-## **[☕️ buymeacoffee](./Kahve.md)**
 
 * * *
 
@@ -106,4 +106,4 @@
 
 * * *
 
-# [@KekikAkademi](https://t.me/KekikAkademi) 🕊
+## [@KekikAkademi](https://t.me/KekikAkademi) 🕊
