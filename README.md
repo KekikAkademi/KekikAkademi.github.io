@@ -1,3 +1,5 @@
+<script async src="https://arc.io/widget.min.js#v5yQTdMy"></script>
+
 **© tüm hakları açık keyfinizce takılın**
 
 * * *
