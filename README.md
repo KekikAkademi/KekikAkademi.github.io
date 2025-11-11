@@ -38,3 +38,8 @@
 ---
 
 ### [@KekikAkademi](https://t.me/KekikAkademi) 🕊
+
+
+---
+
+> ⚖️ [Hukuk Bürosu](https://kurulmazbarishan.com)
